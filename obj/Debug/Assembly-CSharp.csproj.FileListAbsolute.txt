@@ -1,0 +1,2 @@
+C:\Users\putt6\Desktop\testing\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\putt6\Desktop\testing\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
