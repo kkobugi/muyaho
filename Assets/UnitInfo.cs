@@ -16,13 +16,9 @@ public class UnitInfo : MonoBehaviour
         Knight = gameObject;
 
        MyRigidbody.AddForce(new Vector2(0, 5f), ForceMode2D. Impulse);
-        /*
-        Debug.Log(Knight);
-        Debug.Log(Goblin);
-        Debug.Log(Bugbear);
+
 
         Bugbear.SetActive(false);
-        */
     }
 
     // Update is called once per frame
